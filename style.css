@@ -1,0 +1,37 @@
+body {
+    background-color:#ccc;
+}
+
+.container-css {
+    margin: 150px auto;
+    border-radius: 100px;
+    border: 2px solid #000;
+    background-color:rgb(47, 163, 192);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+.buttons-css {
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-between;
+}
+
+.button-css {
+    border-radius: 15px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+    outline: none;
+    font-size: 18px;
+}
+
+
+
